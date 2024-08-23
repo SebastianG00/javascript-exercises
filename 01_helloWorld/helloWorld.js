@@ -1,5 +1,5 @@
-const helloWorld = function() {
-  return ''
+const helloWorldy  = function() {
+  return 'Hello, World!';
 };
 
-module.exports = helloWorld;
+module.exports = helloWorldy;
